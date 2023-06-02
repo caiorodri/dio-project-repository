@@ -1,4 +1,4 @@
-package count.exception;
+package exception;
 
 public class InvalidParamException extends Exception{
 }

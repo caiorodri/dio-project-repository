@@ -1,6 +1,6 @@
-package count;
+package accountant;
 
-import count.exception.InvalidParamException;
+import exception.InvalidParamException;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
