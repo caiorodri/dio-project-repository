@@ -1,4 +1,4 @@
-package backaccount;
+package bankaccount;
 
 import exception.InvalidParamException;
 
