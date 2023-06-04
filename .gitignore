@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/intellij,eclipse,java,intellij+all,intellij+iml
-# Edit at https://www.toptal.com/developers/gitignore?templates=intellij,eclipse,java,intellij+all,intellij+iml
+# Created by https://www.toptal.com/developers/gitignore/api/java,intellij,intellij+iml,intellij+all,eclipse
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,intellij+iml,intellij+all,eclipse
 
 ### Eclipse ###
 .metadata
@@ -321,4 +321,4 @@ modules.xml
 hs_err_pid*
 replay_pid*
 
-# End of https://www.toptal.com/developers/gitignore/api/intellij,eclipse,java,intellij+all,intellij+iml
+# End of https://www.toptal.com/developers/gitignore/api/java,intellij,intellij+iml,intellij+all,eclipse
